@@ -1,4 +1,5 @@
 
+
 /* ##### GENERAL CLASS ##### */
 *, *:after, *::before {
 	-webkit-box-sizing: border-box;
@@ -1558,4 +1559,9 @@ footer .social-icon a:hover {
 
 .parallax .thumbnail{ height:320px; background:none; border: none; color: #fff;}
 .parallax .thumbnail h4, .parallax .thumbnail p{color: #fff !important}
-.img-width{ width:80%}
+
+.sendgrid-subscription-widget{ margin:0px auto;width:400px}
+.sendgrid-subscription-widget input[type=email]{display:inline-block; width:100%;height:34px;padding:6px 12px;font-size:14px;line-height:1.428571429;color:#555555;vertical-align:middle;background-color:#ffffff;background-image:none;border:1px solid #cccccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075);box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075);-webkit-transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s;}.form-control:focus{border-color:#66afe9;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);}
+
+.sendgrid-subscription-widget input[type=submit]{display:inline-block; margin-bottom:0;font-weight:normal;text-align:center;vertical-align:middle;cursor:pointer;background-image:none;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.428571429;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;}
+

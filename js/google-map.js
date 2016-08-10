@@ -8,10 +8,10 @@ $(document).ready(function() {
   if (onMobile == false){
     $(window).load(function(){
       //Google Map          
-      var latlng = new google.maps.LatLng(5.558182, -0.172259);
+      var latlng = new google.maps.LatLng(5.627115, -0.085597);
       var settings = {
         zoom: 16,
-        center: new google.maps.LatLng(5.558182, -0.172259), mapTypeId: google.maps.MapTypeId.ROADMAP,
+        center: new google.maps.LatLng(5.627115, -0.085597), mapTypeId: google.maps.MapTypeId.ROADMAP,
         mapTypeControl: false,
         scrollwheel: false,
         draggable: true,
@@ -29,8 +29,8 @@ $(document).ready(function() {
         '<div id="content">'+
         '  <h3>BenBen</h3>'+
         '  <div id="bodyContent">'+
-        '    <p>F 393/4, Otswe Street, Osu Ako-Adjei, Ghana </p>'+
-				'    <p>P.O. Box KA 9454 Accra, Ghana </p>'+
+        '    <p>47 Nungua Link Road, Second Floor,</p>'+
+				'    <p>Baatsona, Spintex Road, Accra </p>'+
                       
                        '    <p>Telephone: +233 206997565 </p>'+
 					  '    <p>Email:info@benben.com.gh</p>'+
